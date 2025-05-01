@@ -106,7 +106,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](http
 
 ## 👨‍💻 Autor
 
-**Lilian** - [GitHub](https://github.com/lilian-retori/image-processing-package) |
+**Lilian** - [GitHub](https://github.com/lilian-retori/image-processing-package) 
 
 ## 🙏 Agradecimentos
 
