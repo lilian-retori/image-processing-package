@@ -1,6 +1,8 @@
 # 🖼️ PACKAGE_NAME
 
-[![Versão no PyPI](https://img.shields.io/py](https://img.shields.io/badget/package_uario/ Testes](https://img.shields.io/codecov/c/github/seu_usuario//gh/seu_usuario/package_nameforma o processamento de imagens de "mais uma tarefa tediosa" para "uau, isso foi rápido!". Esta biblioteca não é apenas mais um wrapper para OpenCV - é uma revolução em como cientistas de dados interagem com pixels rebeldes.
+[![Versão no PyPI](https://img.shields.io/pypi/v/seu_pacote.svg)](https://pypi.org/project/seu_pacote/)
+[![Testes](https://img.shields.io/codecov/c/github/seu_usuario/package_name)](https://codecov.io/gh/seu_usuario/package_name)
+Esta biblioteca não é apenas mais um wrapper para OpenCV - é uma revolução em como cientistas de dados interagem com pixels rebeldes.
 
 ## ✨ Funcionalidades
 
@@ -104,7 +106,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](http
 
 ## 👨‍💻 Autor
 
-**My_name** - [GitHub](https://github.com/lilian-retori/image-processing-package) |
+**Lilian** - [GitHub](https://github.com/lilian-retori/image-processing-package) |
 
 ## 🙏 Agradecimentos
 
