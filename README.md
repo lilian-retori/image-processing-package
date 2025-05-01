@@ -1,6 +1,6 @@
-# 🖼️ PACKAGE_NAME
+# PACKAGE_NAME
 
-[![Versão no PyPI](https://img.shields.io/pypi/v/seu_pacote.svg)](https://pypi.org/project/seu_pacote/)
+[![Versao no PyPI](https://img.shields.io/pypi/v/seu_pacote.svg)](https://pypi.org/project/seu_pacote/)
 [![Testes](https://img.shields.io/codecov/c/github/seu_usuario/package_name)](https://codecov.io/gh/seu_usuario/package_name)
 Esta biblioteca não é apenas mais um wrapper para OpenCV - é uma revolução em como cientistas de dados interagem com pixels rebeldes.
 
@@ -106,7 +106,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](http
 
 ## 👨‍💻 Autor
 
-**Lilian** - [GitHub](https://github.com/lilian-retori/image-processing-package) 
+**Lilian** - [GitHub](https://github.com/lilian-retori/image-processing-package)
 
 ## 🙏 Agradecimentos
 

@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
-with open("README.md", "r") as f:
-    page_description = f.read()
+with open("README.md", "r", encoding="utf-8") as f:
+    long_description = f.read()
 
-with open("requirements.txt") as f:
-    requirements = f.read().splitlines()
+with open("README.md", "r", encoding="utf-8") as f:
+    long_description = f.read()
 
 setup(
     name="image_proccesing",
